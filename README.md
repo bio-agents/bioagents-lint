@@ -3,7 +3,7 @@
 **bioagentsLint is under design : coding has not started and this page may be missing information**
 
 **bioagentsLint** is a utility for verification and reporting of content of the [IECHOR Agents & Data Services Registry](https://bio.agents).  It will, for purposes of content quality control and labelling, verify the content according to:
-* agent description syntax defined by [bioagentsSchema](https://github.com/bio-agents/bioagentsSchema)
+* agent description syntax defined by [bioagents schema](https://github.com/bio-agents/bioagents schema)
 * correct or recommended use of the [EDAM ontology](https://github.com/edamontology/edamontology/)
 * curation best practice from the bio.agents [Curators Guide](https://bioagents.readthedocs.io/en/latest/curators_guide.html) (in so far as these recommendations can be automatically verified)
 * compliance to the [Agent Information Standard](https://bio-agents.github.io/Agent-Information-Standard/)
@@ -12,7 +12,7 @@
 
 ## Verifications 
 
-The verifications are exhaustively tabulated below, including one table / element group defined in bioagentsSchema.
+The verifications are exhaustively tabulated below, including one table / element group defined in bioagents schema.
 
 ### Element-specific verifications
 
@@ -37,7 +37,7 @@ The verifications are exhaustively tabulated below, including one table / elemen
 
 ## Summary group
 
-See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_elements.html#summary-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#summary-group>curators guide</a>
+See <a href=https://bioagents-schema.readthedocs.io/en/latest/bioagents-schema_elements.html#summary-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#summary-group>curators guide</a>
 
 ![summary group](images/summary.png)
 
@@ -261,7 +261,7 @@ See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_ele
 
 ## Function group
 
-See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_elements.html#function-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#function-group>curators guide</a>
+See <a href=https://bioagents-schema.readthedocs.io/en/latest/bioagents-schema_elements.html#function-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#function-group>curators guide</a>
 
 ![function group](images/function.png)
 
@@ -468,7 +468,7 @@ See also the [general EDAM verifications](https://github.com/bio-agents/bioagent
 
 ## Labels group
 
-See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_elements.html#labels-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#labels-group>curators guide</a>
+See <a href=https://bioagents-schema.readthedocs.io/en/latest/bioagents-schema_elements.html#labels-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#labels-group>curators guide</a>
 
 ![labels group](images/labels.png)
 
@@ -644,7 +644,7 @@ See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_ele
 
 ## Links group
 
-See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_elements.html#links-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#links-group>curators guide</a>
+See <a href=https://bioagents-schema.readthedocs.io/en/latest/bioagents-schema_elements.html#links-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#links-group>curators guide</a>
 
 ![labels group](images/link.png)
 
@@ -707,7 +707,7 @@ See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_ele
 
 ## Download group
 
-See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_elements.html#download-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#download-group>curators guide</a>
+See <a href=https://bioagents-schema.readthedocs.io/en/latest/bioagents-schema_elements.html#download-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#download-group>curators guide</a>
 
 ![labels group](images/download.png)
 
@@ -770,7 +770,7 @@ See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_ele
 
 ## Documentation group
 
-See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_elements.html#documentation-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#documentation-group>curators guide</a>
+See <a href=https://bioagents-schema.readthedocs.io/en/latest/bioagents-schema_elements.html#documentation-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#documentation-group>curators guide</a>
 
 ![labels group](images/documentation.png)
 
@@ -833,7 +833,7 @@ See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_ele
 
 ## Publications group
 
-See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_elements.html#publications-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#publications-group>curators guide</a>
+See <a href=https://bioagents-schema.readthedocs.io/en/latest/bioagents-schema_elements.html#publications-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#publications-group>curators guide</a>
 
 ![labels group](images/publication.png)
 
@@ -946,7 +946,7 @@ See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_ele
 
 ## Credits group
 
-See <a href=https://bioagentsschema.readthedocs.io/en/latest/bioagentsschema_elements.html#credits-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#credits-group>curators guide</a>
+See <a href=https://bioagents-schema.readthedocs.io/en/latest/bioagents-schema_elements.html#credits-group>schema docs</a> & <a href=https://bioagents.readthedocs.io/en/latest/curators_guide.html#credits-group>curators guide</a>
 
 ![labels group](images/credit.png)
 
